@@ -1,2 +1,3 @@
 this is a sample text, changes to the end of the file
 this is a new line
+This is a bug Fix branch
